@@ -1,0 +1,8 @@
+.w3-text-teal{
+    color: #4b36d0 !important;
+}
+
+.w3-teal, .w3-hover-teal:hover {
+    color: #fff!important;
+    background-color: #4b36d0 !important;
+}
